@@ -24,7 +24,7 @@ $$ \frac{dy}{dx} = \frac{S_0 - S_f}{1 - Fr^2} $$
 
 ### Solución Red Cerrada De Agua Potable. 
 
-Solución de una red de más de 20 nodos, mallas y tuberías utilizando el método de Cross y Newton-Raphson para sistemas de ecuaciones no lineales. 
-**[Código.](./circuito_cerrado_presion_metodo_cross.ipynb)**
-**[Código.](./circuito_cerrado_presion_metodo_newton.ipynb)**
+Solución de una red de más de 12 nodos, mallas y tuberías utilizando el método de Cross y Newton-Raphson para sistemas de ecuaciones no lineales. 
+**[Código Cross.](./circuito_cerrado_presion_metodo_cross.ipynb)**
+**[Código Newton.](./circuito_cerrado_presion_metodo_newton.ipynb)**
 
