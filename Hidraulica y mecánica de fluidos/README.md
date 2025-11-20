@@ -6,7 +6,7 @@ Análisis de fuerzas y distribución de presión en superficie inclinada con flu
 [https://github.com/tu_usuario/tu_repo/assets/123456/tu-video.mp4](https://github.com/user-attachments/assets/41626779-11c8-4291-84bd-57a06b30800a)
 
 
-### Análisis de alturas conjugadas en canales abiertos con diveras tipos de sección tranversal
+### Análisis de alturas conjugadas en canales abiertos para diversas formas de sección tranversal
 
 Solución numérica de la ecuación de momentum para determinar las profundidades alternas en canales de sección no rectangular. Se determina la relación del momentum y propiedades tales como el numero de froude y las profundidades conjugadas. **[Código.](./alturas_conjugadas_canales_abiertos.ipynb)**
 
