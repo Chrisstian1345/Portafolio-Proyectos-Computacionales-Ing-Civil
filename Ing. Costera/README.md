@@ -10,7 +10,7 @@ Simulación geoespacial de la refracción de ondas sobre batimetría variable re
 
 ### Propagación de Ondas Costeras mediante Trazado de Rayos (Ray Tracing)
 
-Simulación de la refracción del oleaje en la zona de transición hacia la costa. El algoritmo integra un solver numérico (Newton-Raphson) para resolver la relación de dispersión en cada paso de la trayectoria, calculando la celeridad exacta en aguas intermedias sin asumir la aproximación de aguas someras. **[Código.](./ssimulacion_ray_tracing_ondas_costeras.ipynb)**
+Simulación de la refracción del oleaje en la zona de transición hacia la costa. El algoritmo integra un solver numérico (Newton-Raphson) para resolver la relación de dispersión en cada paso de la trayectoria, calculando la celeridad exacta en aguas intermedias sin asumir la aproximación de aguas someras. **[Código.](./simulacion_ray_tracing_ondas_costeras.ipynb)**
 
 <img width="952" height="725" alt="Untitled" src="https://github.com/user-attachments/assets/ddf26b73-e6b6-403c-aa74-dbd5d2efe73e" />
 
