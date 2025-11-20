@@ -16,7 +16,7 @@ Solución numérica de la ecuación de momentum para determinar las profundidade
 
 ### Modelación simple para flujo gradualmente variado.
 
-Solución de la ecuación de momentum simplificada (flujo permanente) utilizando el método de Euler para ecuaciones diferenciales ordinarias. **[Código.](./flujo_gradualmente_variado_metodo_euler.ipynb)**
+Solución de la ecuación de momentum simplificada (flujo permanente) en un canal de sección rectangular utilizando el método de Euler para ecuaciones diferenciales ordinarias. **[Código.](./flujo_gradualmente_variado_metodo_euler.ipynb)**
 
 $$ \frac{dy}{dx} = \frac{S_0 - S_f}{1 - Fr^2} $$
 
